@@ -56,7 +56,6 @@ public class MysqlGenerator {
 
         // Mysql
         dsc.setUrl("jdbc:mysql://localhost:3306/master_db?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=GMT%2B8");
-       /* dsc.setUrl("jdbc:mysql://dnode20:3306/public_db?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=GMT%2B8");*/
         dsc.setUsername("root");
         dsc.setPassword("root123");
         dsc.setDbType(DbType.MYSQL);
