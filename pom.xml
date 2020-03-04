@@ -9,8 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <artifactId>backend-mybatis-generator</artifactId>
-    <name>backend-mybatis-generator</name>
+    <artifactId>mybatis-plus-generator-sample</artifactId>
+    <name>${project.artifactId}</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <version.mybatis-plus>3.2.0</version.mybatis-plus>
